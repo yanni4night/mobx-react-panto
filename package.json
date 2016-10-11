@@ -1,0 +1,31 @@
+{
+  "name": "mobx-react-panto",
+  "version": "0.1.0",
+  "description": "Building mobx/react with panto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "panto"
+  },
+  "author": "yanni4night@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "mobx": "^2.6.0",
+    "mobx-react": "^3.5.8",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-class-properties": "^6.16.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "load-panto-transformers": "^0.1.0",
+    "panto": "0.1.0-alpha.2",
+    "panto-transformer-babel": "^0.1.6",
+    "panto-transformer-browserify": "^0.1.6",
+    "panto-transformer-read": "^0.3.3",
+    "panto-transformer-write": "^0.3.4",
+    "time-panto": "^0.2.0"
+  }
+}
