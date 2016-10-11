@@ -27,5 +27,18 @@
     "panto-transformer-read": "^0.3.3",
     "panto-transformer-write": "^0.3.4",
     "time-panto": "^0.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yanni4night/mobx-react-panto.git"
+  },
+  "keywords": [
+    "panto",
+    "mobx",
+    "react"
+  ],
+  "bugs": {
+    "url": "https://github.com/yanni4night/mobx-react-panto/issues"
+  },
+  "homepage": "https://github.com/yanni4night/mobx-react-panto"
 }
